@@ -8,5 +8,6 @@ void main() {
 
   var myAgeGreeting =
       'my age is $age, I\'ll be ${age + 1} years old next year.'; // 변수에 계산 코드가 들어간다면 ${variable + x}
+
   print(greeting);
 }
